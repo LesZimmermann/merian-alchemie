@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    https://merian-alchemie.ub.uni-frankfurt.de/
+ Description:  A child theme of Twenty Twenty WordPress theme.
+ Author:       Leslie P. Zimmermann
+ Author URI:   https://lesliepzimmermann.de/
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.footer-top {
+    display: none;
+}
